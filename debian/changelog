@@ -1,3 +1,9 @@
+osinfo-db (0.20170225-3~deb9u1) stretch; urgency=medium
+
+  * [17d85a0] Adjust gbp.conf for stretch
+
+ -- Guido Günther <agx@sigxcpu.org>  Tue, 20 Jun 2017 08:26:19 +0200
+
 osinfo-db (0.20170225-3) unstable; urgency=medium
 
   * [c058963] Update Jessie DVD links.
