@@ -1,3 +1,26 @@
+osinfo-db (0.20170811-1) unstable; urgency=medium
+
+  * [596e960] Fix vcs git url
+  * [226d475] New upstream version 0.20170811
+  * [1cfe3ae] Drop debian-switch-to-archive-URLs-for-stretch.patch applied
+    upstream
+
+ -- Guido Günther <agx@sigxcpu.org>  Fri, 11 Aug 2017 16:48:31 -0300
+
+osinfo-db (0.20170707-2) unstable; urgency=medium
+
+  * [c821b78] debian: switch to archive URLs for stretch
+
+ -- Guido Günther <agx@sigxcpu.org>  Sun, 23 Jul 2017 14:02:34 +0200
+
+osinfo-db (0.20170707-1) unstable; urgency=medium
+
+  * [1428d41] New upstream version 0.20170707
+  * [1f875ee] Run make check during
+  * [a906220] Drop all patches - all appplied upstream
+
+ -- Guido Günther <agx@sigxcpu.org>  Fri, 07 Jul 2017 18:09:19 +0200
+
 osinfo-db (0.20170225-3~deb9u1) stretch; urgency=medium
 
   * [17d85a0] Adjust gbp.conf for stretch
